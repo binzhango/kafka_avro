@@ -1,0 +1,5 @@
+com/demo/beans/Stock$Builder.class
+com/demo/beans/Stock$1.class
+com/demo/beans/Stock.class
+com/demo/AvroProducer.class
+com/demo/AvroConsumer.class
